@@ -43,15 +43,15 @@ export default function App() {
        
       <div className="text-container">
         {" "}
-        This page is answer of{" "}
+        This page is an answer to the{" "}
         <a
           href="https://www.theforage.com/virtual-internships/prototype/km4rw7dihDr3etqom/Skyscanner-Front-End-Software-Engineering-Virtual-Job-Simulation"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Forage Skyscanner Front-End Software Engineering
+         Forage Skyscanner Front-End Software Engineering
         </a>{" "}
-        course task. Unfortunately my React version is 18.2 and Skyscanner's{" "}
+        course task. Unfortunately, my React version is 18.2 and Skyscanner's{" "}
         <a
           href="https://www.skyscanner.design/latest/welcome-to-backpack-Mtf5OEo4"
           target="_blank"
@@ -59,9 +59,7 @@ export default function App() {
         >
           Backpack React Library
         </a>{" "}
-        is not compatible with my React version. So this answer is different
-        from Skyscanner's own. You can test and modify my App.jsx or you can
-        create your own to complete the task. Enjoy!
+           is not compatible with my React version. So this answer is different from Skyscanner's own. You can test and modify my App.jsx or you can create your own to complete the task. Enjoy!
       </div>
       <br />{" "}
       <div className="end"> <a
@@ -81,7 +79,7 @@ export default function App() {
           erdemapps.
         </a>
       </div></div>
-     
+      
     </>
   );
 }
